@@ -1,0 +1,80 @@
+Methods 
+
+Proposed methodology implementation flow:
+
+Stage 0: Definition of the scope
+??
+
+
+Stage 1: Data Sourcing
+?? Phinous
+
+Stage 2: Data Processing
+After data sourcing, we aim to process data into the nature required for modelling. We will focus on merging datasets from the different sources, data quality check, perform dimensionality reduction where it will be necessary using tools like Principal Component Analysis (PCA). 
+
+
+Stage 2: Parameterization and Machine Learning modelling (Boukabara_etal_2019.pdf on Desktop)
+Parameterizations introduce errors by using simplified assumptions about physical processes and
+through approximations and even mistakes made as the parameterizations are implemented in models.
+For example, a parameterized submodel that simulates heating and cooling of the atmosphere by
+infrared and solar radiation can be very computationally demanding. Typically, the heating and cooling
+of the atmosphere are calculated for one particular time and then held fixed, in some cases for hours.
+Meanwhile, the other atmospheric processes are simulated with time steps of a few minutes. This
+procedure is used for operational NWP systems, even though the strong interaction between clouds and
+radiation is modulated as clouds move and evolve on scales of minutes.
+
+To alleviate these problems, modelers are already using fast and accurate ML emulations of existing
+time-consuming parameterizations, for example, . We seek to emplore this form of parameterization techniques as well in our work.
+
+[Figure]
+
+On the actual modelling, we aim to ensemble the results of NWP-WRF model and ML to obtain an hybrid model for nowcasts and forecasts. From the workflow in the Figure above, ML modelling processs starts from data sourcing, preprocess data, performs actual modelling as an iterative process until highly accurate module is achieved based on choices of parameters and model algorithm.
+
+
+
+Stage 3: Evaluation of model results
+We will evaluate the model performance in two ways. First, we apply k-fold cross-validation on model results for different combinations of parameters and secondly evaluate the ensemble model based on satellite data. After evaluation, based on the results, the process can be terminated at this point or different models, choice of parameters and/or features are tested.
+
+
+Stage 4: Postprocessing to ensure sustainability of use
+The aim of the proposal is to make the output of the modelling process available on a public platform for consumptions for the general public.
+
+
+------------------Machine Learning for climate predicition----------------- (1906.05433_V2.pdf)
+
+Recent trends have created opportunities for ML to advance the state-of-the-art in climate prediction
+(Fig. 6). First, new and cheaper satellites are creating petabytes of climate observation data. 32 Second, mas-
+sive climate modeling projects are generating petabytes of simulated climate data. 33 Third, climate forecasts
+are computationally expensive [473] (the simulations in [472] took three weeks to run on NCAR supercom-
+puters), while ML methods are becoming increasingly fast to train and run, especially on next-generation
+computing hardware. As a result, climate scientists have recently begun to explore ML techniques, and are
+starting to team up with computer scientists to build new and exciting applications.
+
+Climate models represent our understanding of Earth and climate physics. We can learn about the Earth by
+collecting data. To turn that data into useful predictions, we need to condense it into coherent, computation-
+ally tractable models. ML models are likely to be more accurate or less expensive than other models where:
+(1) there is plentiful data, but it is hard to model systems with traditional statistics, or (2) there are good
+models, but they are too computationally expensive to use in production.
+
+When data are plentiful, climate scientists build data-driven models. In these areas, ML techniques may
+solve many problems that were previously challenging.
+
+Many climate prediction problems are irremediably data-limited. No matter how many weather stations we
+construct, how many field campaigns we run, or how many satellites we deploy, the Earth will generate at
+most one year of new climate data per year. Existing climate models deal with this limitation by relying
+heavily on physical laws, such as thermodynamics. These models are structured in terms of coupled partial
+differential equations that represent physical processes like cloud formation, ice sheet flow, and permafrost
+melt. ML models provide new techniques for solving such systems efficiently.
+
+
+ML could also be used to identify and leverage relationships between climate variables. Pattern recognition
+and feature extraction techniques could allow us to identify more useful connections in the climate system,
+and regression models could allow us to quantify non-linear relationships between connected variables.
+For example, Nowack et al. demonstrated that ozone concentrations could be computed as a function of
+temperature, rather than physical transport laws, which led to considerable computational savings [489].
+The best climate predictions are synthesized from ensembles of 20+ climate models [490/cite 1906.05433_V2.pdf]. Making good
+ensemble predictions is an excellent ML problem. We seek to follow this path.
+
+
+
+

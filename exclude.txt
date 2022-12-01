@@ -1,0 +1,152 @@
+.git
+.github
+__pycache__
+.idea
+.ipynb_checkpoints
+venv/*
+multicoil_val.tar.gz
+mask_rcnn_coco.h5
+chromedriver
+junk/*
+misc/*
+Zoom/*
+YOLOv5
+yolov5
+yolov5_fruits
+yolov5_wild
+mrcnn_and_yolo
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/assets/datasets/*
+RGR/Example/*
+RGR/Example1/*
+RGR/processed_input/*
+RGR/processed_output/*
+RGR/refined/*
+RGR/refined1/*
+RGR/rgr_input/*
+RGR/rgr_input1/*
+RGR/RbRG paper.pdf
+training_history/event_files/*
+autoencoder/val_data.npy
+autoencoder/train_data.npy
+autoencoder/train_data.npy
+autoencoder/truth_binary_masks/*
+autoencoder/sample_truth_masks/*
+autoencoder/sample_pred_masks/*
+autoencoder/pred_binary_masks/*
+autoencoder/models/*
+autoencoder/logs/*
+YOLO_NEW/prepare_species/sample_images_and_yolov5_annotations/*
+YOLO_NEW/prepare_species/data1/*
+YOLO_NEW/prepare_species/data/images/train/*
+YOLO_NEW/prepare_species/data/images/val/*
+YOLO_NEW/prepare_species/data/labels/train/*
+YOLO_NEW/prepare_species/data/labels/val/*
+YOLO_NEW/prepare_species/data/*
+YOLO_NEW/runs/detect/*
+YOLO_NEW/runs/train/*
+YOLO_NEW/species/images/train/*
+YOLO_NEW/species/images/val/*
+YOLO_NEW/species/labels/train/*
+YOLO_NEW/species/labels/val/*
+YOLO_NEW/weights/*
+YOLO_NEW/wobot/images/*
+YOLO_NEW/wobot/labels/*
+YOLO_NEW/wobot/video.mp4
+YOLO_NEW/wobot_original/*
+YOLO_NEW/wobot_output/*
+YOLO_NEW/prepare_wobot/demo/*
+YOLO_NEW/prepare_wobot/test_output/*
+YOLO_NEW/prepare_species_subset
+input_video.mp4
+output_long.mp4
+data_expansion/*
+multicoil_val/*
+WLD_raw_videos/*
+WLD_raw_videos.tar
+WLD/videos/*
+SCIoI/Project/Datasets/Valentin/*
+WLD/frames/*
+WLD/annotations/*
+WLD/subtitles/*
+PS_AND_RESEARCH/Coursera/CNN keras/models/*
+keras-video-classification/data_asarray*
+keras-video-classification/example_clips/*
+keras-video-classification/models/*
+keras-video-classification/output/*
+keras-video-classification/short_clips/*
+keras-video-classification/sample_videos/*
+keras-video-classification/logs/*
+keras-video-classification/actions/*
+keras-video-classification/Sports-Type-Classifier-master/*
+keras-video-classification/data_actions_asarray2.npy
+keras-video-classification/train_actions.npy
+keras-video-classification/val_actions.npy
+keras-video-classification/test_actions.npy
+species_classification/data_as_array/*
+species_classification/images/*
+species_classification/links/*
+species_classification/logs/*
+species_classification/models/*
+species_classification/annotations/*
+species_localization/data_preparation/data
+species_localization/data_preparation/data1
+YOLOv5_Species/training/data/images/*
+YOLOv5_Species/training/data/labels/*
+sample_images_and_yolov5_annotations/*
+keras-video-classification/Sports-Type-Classifier-master/*
+human-activity-recognition/resnet-34_kinetics.onnx
+human-activity-recognition/example_activities.mp4
+Sports-Type-Classifier-master/data/
+SCIoI/Project/video-annotation-tool/audios/*
+SCIoI/Project/video-annotation-tool/images/*
+SCIoI/Project/video-annotation-tool/tesseract/
+SCIoI/Project/video-annotation-tool/videos/*
+action_recognition/videos/*
+Upwork_Ashima/Burgenland/*
+Upwork_Ashima/Vienna/*
+Upwork_Ashima/Lower Australia/*
+Upwork_Ashima/output_main/*
+Upwork_Rebecca/data/*
+Upwork_Ryan/images/*
+Upwork_Ryan/images2/*
+Upwork_Ryan/output/*
+PS_AND_RESEARCH/Website/delete-this/*
+Mask_RCNN-Fruits-TF2/assets/history/*
+Mask_RCNN-Fruits-TF2/logs/*
+Mask_RCNN-Fruits-TF2/datasets/fruits2/*
+Mask_RCNN-Fruits-TF2/evaluation/example/*
+Mask_RCNN-Fruits-TF2/evaluation/results/*
+Mask_RCNN-Fruits-TF2/evaluation/truth_masks/*
+Mask_RCNN-Fruits-TF2/example-output/*
+Mask_RCNN-Fruits-TF2/orchard_sample_images/*
+Mask_RCNN-Fruits-TF2/output/*
+Mask_RCNN-Fruits-TF2/random_images/*
+action_recognition/images/*
+action_recognition/images2/*
+action_recognition/not_relevant_videos/*
+action_recognition/videos/*
+action_recognition/videos1/*
+action_recognition/sample_videos/*
+action_recognition/sample_videos_output/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Datasets/Orchard/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/almonds/images/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/almonds/annotations/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/apples/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/mangoes/test_csv/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/mangoes/test_images/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/mangoes/train_csv/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/ACFR/mangoes/train_images/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/detection/test/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/detection/train/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/fruits/train/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/fruits/test/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/fruits/val/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/FUJI/train_images/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/Annotation projects/FUJI/test_images/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/assets/logs/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/evaluation/truth_masks/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/evaluation/training_history/event_files/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/evaluation/results/*
+STELLENBOSCH UNIVERSITY/Masters by Research/Mask_R-CNN-Fruits-TF1x/output/*
+Incomplete/Zindi_2/trained_NN/*
+Incomplete/Audio-Classification/wavfiles/*

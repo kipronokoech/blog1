@@ -1,0 +1,66 @@
+1624902010371	geckodriver	INFO	Listening on 127.0.0.1:49559
+1624902020537	geckodriver	INFO	Listening on 127.0.0.1:43669
+1624902021538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekYEYLX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902024483	Marionette	INFO	Listening on port 33379
+1624902024545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902036048	geckodriver	INFO	Listening on 127.0.0.1:45629
+1624902037037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41mnir"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902040759	Marionette	INFO	Listening on port 46631
+1624902040888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902045564	Marionette	INFO	Stopped listening on port 46631
+1624902060829	geckodriver	INFO	Listening on 127.0.0.1:54529
+1624902061810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesnUiGO"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902066738	Marionette	INFO	Listening on port 44623
+1624902066868	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1624902089119	Marionette	INFO	Stopped listening on port 44623
+1624902222400	geckodriver	INFO	Listening on 127.0.0.1:44787
+1624902223403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileceeVeQ"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902227838	Marionette	INFO	Listening on port 42757
+1624902227935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902299888	geckodriver	INFO	Listening on 127.0.0.1:33515
+1624902300887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemCv4GN"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902306145	Marionette	INFO	Listening on port 43843
+1624902306217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902315882	Marionette	INFO	Stopped listening on port 43843
+1624902320213	geckodriver	INFO	Listening on 127.0.0.1:55215
+1624902321216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebufNDM"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902324674	Marionette	INFO	Listening on port 40279
+1624902324726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902342040	geckodriver	INFO	Listening on 127.0.0.1:39993
+1624902343061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA6vxD5"
+1624902343498	Marionette	INFO	Stopped listening on port 40279
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902345958	Marionette	INFO	Listening on port 40831
+1624902345973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902384138	geckodriver	INFO	Listening on 127.0.0.1:42085
+1624902385145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoya3Rq"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902388832	Marionette	INFO	Listening on port 40119
+1624902388857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902397908	Marionette	INFO	Stopped listening on port 40119
+1624902403849	geckodriver	INFO	Listening on 127.0.0.1:34909
+1624902404852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "\'user-agent\': Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileajoY8Q"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 466: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+1624902409496	Marionette	INFO	Listening on port 45857
+1624902409561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624902414175	Marionette	INFO	Stopped listening on port 45857
+1624903503536	Marionette	INFO	Stopped listening on port 40831
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1624903550827	Marionette	INFO	Stopped listening on port 42757
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

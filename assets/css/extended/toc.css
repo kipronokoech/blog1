@@ -1,0 +1,9 @@
+
+.toc {
+    margin: 0 2px 40px 2px;
+    border: 1.2px solid var(--border);
+    background: var(--entry);
+    border-radius: var(--radius);
+    padding: 0.4em;
+}
+
